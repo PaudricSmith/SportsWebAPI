@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\VisualStudioProjects\\ASP_Portfolio\\PSport\\PSport.API\\PSport.API.csproj": {}
+    "D:\\Projects\\VisualStudioProjects\\ASP_Portfolio\\SportsWebAPI\\PSport.API\\PSport.API.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\VisualStudioProjects\\ASP_Portfolio\\PSport\\PSport.API\\PSport.API.csproj": {
+    "D:\\Projects\\VisualStudioProjects\\ASP_Portfolio\\SportsWebAPI\\PSport.API\\PSport.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\VisualStudioProjects\\ASP_Portfolio\\PSport\\PSport.API\\PSport.API.csproj",
+        "projectUniqueName": "D:\\Projects\\VisualStudioProjects\\ASP_Portfolio\\SportsWebAPI\\PSport.API\\PSport.API.csproj",
         "projectName": "PSport.API",
-        "projectPath": "D:\\Projects\\VisualStudioProjects\\ASP_Portfolio\\PSport\\PSport.API\\PSport.API.csproj",
+        "projectPath": "D:\\Projects\\VisualStudioProjects\\ASP_Portfolio\\SportsWebAPI\\PSport.API\\PSport.API.csproj",
         "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\VisualStudioProjects\\ASP_Portfolio\\PSport\\PSport.API\\obj\\",
+        "outputPath": "D:\\Projects\\VisualStudioProjects\\ASP_Portfolio\\SportsWebAPI\\PSport.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\smith\\AppData\\Roaming\\NuGet\\NuGet.Config",
